@@ -1,4 +1,4 @@
 package javaCore;
 
-public class tyftyjv 1{
+public class tyftyjv{
 }
